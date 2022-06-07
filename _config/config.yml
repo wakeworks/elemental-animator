@@ -1,0 +1,6 @@
+---
+name: elemental-animator
+---
+DNADesign\Elemental\Models\BaseElement:
+  extensions:
+    - WakeWorks\ElementalAnimator\Extensions\BaseElementExtension
