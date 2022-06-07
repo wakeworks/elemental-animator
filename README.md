@@ -54,6 +54,13 @@ There are multiple options available
 | data-animated-delay       | Delay in ms after which the effect will start | 0 |
 | data-animated-duration    | Duration in ms that the animation will take   | 1000 |
 
+### Available effects
+* fadeIn
+* fadeInUp
+* fadeInDown
+* fadeInLeft
+* fadeInRight
+
 ### Control animations from CMS
 You can control your animations in cms by enabling the animations for all elements or specific ones. This will add input fields to your element's settings tab.
 
