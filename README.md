@@ -9,8 +9,8 @@ Introduces easily integratable animations for your elemental blocks
 
 ## Requirements
 
-* silverstripe/framework ^4.4
-* silverstripe/elemental ^4
+* silverstripe/framework ^4.4 || ^5
+* silverstripe/elemental ^4 || ^5
 
 This module was only tested on >= 4.10.
 
